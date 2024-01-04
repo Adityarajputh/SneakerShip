@@ -20,4 +20,5 @@
     <string name="total">Total :</string>
     <string name="no_sneakers_in_cart">No Sneakers In Cart.</string>
     <string name="remove_from_cart">Remove From Cart</string>
+    <string name="sort_by">Sort by</string>
 </resources>
