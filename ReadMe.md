@@ -7,24 +7,24 @@ SneakerShip is an Demo Android application that loads Sneaker data from a json f
 
 ## Tech Stack
 
-- **Programming Language:** -[Kotlin] 
-- **Android Framework:** [Android Jetpack Components (ViewModel, LiveData, Room, Navigation)]
-- **Dependency Injection:** [Dagger Hilt]
-- **Database:** [SQLite (RoomDB)]
-- **Asynchronous Programming:** [Kotlin Coroutines]
-- **Build System:** [Gradle]
-- **Version Control:** [Git]
-- **IDE:** [Android Studio]
+- **Programming Language:** Kotlin
+- **Android Framework:** Android Jetpack Components (ViewModel, LiveData, Room, Navigation)
+- **Dependency Injection:** Dagger Hilt
+- **Database:** SQLite (RoomDB)
+- **Asynchronous Programming:** Kotlin Coroutines
+- **Build System:** Gradle
+- **Version Control:** Git
+- **IDE:** Android Studio
 
 ## Screens
 
 ## Home Screen
-![Screenshot_2024-01-04-18-50-32-826_com.example.sneakership.jpg]
+![ScreenShot 01](Screenshot_2024-01-04-18-50-32-826_com.example.sneakership.jpg)
 
 ## Sneaker Details Screen
-![Screenshot_2024-01-04-18-50-59-936_com.example.sneakership.jpg]
+![ScreenShot 02](Screenshot_2024-01-04-18-50-59-936_com.example.sneakership.jpg)
 
 ## CheckOut Screen
-![Screenshot_2024-01-04-18-50-42-619_com.example.sneakership.jpg]
+![ScreenShot 03](Screenshot_2024-01-04-18-50-42-619_com.example.sneakership.jpg)
 
 
