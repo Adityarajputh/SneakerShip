@@ -7,7 +7,7 @@ SneakerShip is an Demo Android application that loads Sneaker data from a json f
 
 ## Tech Stack
 
-- **Programming Language:** [Kotlin] 
+- **Programming Language:** -[Kotlin] 
 - **Android Framework:** [Android Jetpack Components (ViewModel, LiveData, Room, Navigation)]
 - **Dependency Injection:** [Dagger Hilt]
 - **Database:** [SQLite (RoomDB)]
