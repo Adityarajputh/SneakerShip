@@ -20,12 +20,12 @@ SneakerShip is an Demo Android application that loads Sneaker data from a json f
 
 Screen :- 01
 ##Home Screen
-![Screen01][Screenshot_2024-01-04-18-50-32-826_com.example.sneakership.jpg]
+![Screenshot_2024-01-04-18-50-32-826_com.example.sneakership.jpg]
 
 ##Sneaker Details Screen
-![Screen02][Screenshot_2024-01-04-18-50-59-936_com.example.sneakership.jpg]
+![Screenshot_2024-01-04-18-50-59-936_com.example.sneakership.jpg]
 
 ##CheckOut Screen
-![Screen03][Screenshot_2024-01-04-18-50-42-619_com.example.sneakership.jpg]
+![Screenshot_2024-01-04-18-50-42-619_com.example.sneakership.jpg]
 
 
