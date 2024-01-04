@@ -1,0 +1,1768 @@
+[{
+  "id": "1",
+  "brand": "Nike",
+  "colorway": "black",
+  "gender": "male",
+  "media": {
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png",
+    "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png"
+  },
+  "releaseDate": "2015-12-15",
+  "retailPrice": 100 ,
+  "name": "Nike Air Force 1 '07",
+  "title": "Nike Air Force 1 '07",
+  "styleId": "S01",
+  "shoe": "casual",
+  "year": 2015
+},
+  {
+    "id": "2",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/812a427a-3923-4a9e-96de-16c93d658542/full-force-low-shoes-w2MKmW.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/812a427a-3923-4a9e-96de-16c93d658542/full-force-low-shoes-w2MKmW.png"
+    },
+    "releaseDate": "2014-12-15",
+    "retailPrice": 120 ,
+    "name": "Nike Full Force Low",
+    "title": "Nike Full Force Low",
+    "styleId": "S02",
+    "shoe": "casual",
+    "year": 2014
+  },
+
+  {
+    "id": "3",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7112d5a-cfc0-4a53-8d9e-40ce8274324d/zoom-vomero-5-shoes-0MrckK.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7112d5a-cfc0-4a53-8d9e-40ce8274324d/zoom-vomero-5-shoes-0MrckK.png"
+    },
+    "releaseDate": "2017-12-25",
+    "retailPrice": 130 ,
+    "name": "Nike Zoom Vomero 5 Premium",
+    "title": "Nike Zoom Vomero 5 Premium",
+    "styleId": "S03",
+    "shoe": "casual",
+    "year": 2017
+  },
+
+
+  {
+    "id": "4",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cef814b-265a-4279-8e0a-959c0c736ee9/terminator-low-shoes-8sqr67.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cef814b-265a-4279-8e0a-959c0c736ee9/terminator-low-shoes-8sqr67.png"
+    },
+    "releaseDate": "2015-10-25",
+    "retailPrice": 150 ,
+    "name": "Nike Terminator Low Premium",
+    "title": "Nike Terminator Low Premium",
+    "styleId": "S04",
+    "shoe": "casual",
+    "year": 2015
+  },
+
+  {
+    "id": "5",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf6f9523-08b8-4f9a-9518-64640fb7ee91/air-huarache-runner-shoes-6gNJ0g.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf6f9523-08b8-4f9a-9518-64640fb7ee91/air-huarache-runner-shoes-6gNJ0g.png"
+    },
+    "releaseDate": "2020-2-15",
+    "retailPrice": 90 ,
+    "name": "Nike Air Huarache Runner",
+    "title": "Nike Air Huarache Runner",
+    "styleId": "S05",
+    "shoe": "casual",
+    "year": 2020
+  },
+
+  {
+    "id": "6",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d706b6dd-32a7-4ed9-81c9-c0808624807c/dunk-low-retro-shoes-bCzchX.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d706b6dd-32a7-4ed9-81c9-c0808624807c/dunk-low-retro-shoes-bCzchX.png"
+    },
+    "releaseDate": "2010-10-2",
+    "retailPrice": 290 ,
+    "name": "Nike Dunk Low Retro",
+    "title": "Nike Dunk Low Retro",
+    "styleId": "S06",
+    "shoe": "casual",
+    "year": 2010
+  },
+
+  {
+    "id": "7",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/xaj8jyvjkquxeefdbrkj/killshot-2-leather-shoe-DqWZ4j.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/xaj8jyvjkquxeefdbrkj/killshot-2-leather-shoe-DqWZ4j.png"
+    },
+    "releaseDate": "2019-10-5",
+    "retailPrice": 100 ,
+    "name": "Nike Killshot 2 Leather",
+    "title": "Nike Killshot 2 Leather",
+    "styleId": "S07",
+    "shoe": "casual",
+    "year": 2019
+  },
+
+  {
+    "id": "8",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1f53b04c-18dc-48b7-a4db-f402c0d84d3c/air-force-1-07-shoes-PhJwrD.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1f53b04c-18dc-48b7-a4db-f402c0d84d3c/air-force-1-07-shoes-PhJwrD.png"
+    },
+    "releaseDate": "2013-10-10",
+    "retailPrice": 145 ,
+    "name": "Nike Air Force 1 '07",
+    "title": "Nike Air Force 1 '07",
+    "styleId": "S08",
+    "shoe": "casual",
+    "year": 2013
+  },
+
+  {
+    "id": "9",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/da52b99a-87e6-4887-a080-fc53942b5c18/air-jordan-11-retro-low-ie-shoes-30kr7w.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/da52b99a-87e6-4887-a080-fc53942b5c18/air-jordan-11-retro-low-ie-shoes-30kr7w.png"
+    },
+    "releaseDate": "2012-9-1",
+    "retailPrice": 135 ,
+    "name": "Air Jordan 11 Retro Low IE",
+    "title": "Air Jordan 11 Retro Low IE",
+    "styleId": "S09",
+    "shoe": "casual",
+    "year": 2012
+  },
+
+  {
+    "id": "10",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8cd2fd7c-f969-44ff-bc75-3c32d865e614/air-humara-shoes-Hs4Qsh.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8cd2fd7c-f969-44ff-bc75-3c32d865e614/air-humara-shoes-Hs4Qsh.png"
+    },
+    "releaseDate": "2011-1-10",
+    "retailPrice": 180 ,
+    "name": "Nike Air Humara",
+    "title": "Nike Air Humara",
+    "styleId": "S10",
+    "shoe": "casual",
+    "year": 2011
+  },
+
+  {
+    "id": "11",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23fd664e-2962-4ea1-8389-cf98ac2dd2fc/air-max-90-shoes-hkwJRC.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23fd664e-2962-4ea1-8389-cf98ac2dd2fc/air-max-90-shoes-hkwJRC.png"
+    },
+    "releaseDate": "2015-09-1",
+    "retailPrice": 170 ,
+    "name": "Nike Air Max 90",
+    "title": "Nike Air Max 90",
+    "styleId": "S11",
+    "shoe": "casual",
+    "year": 2015
+  },
+
+  {
+    "id": "12",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9968d11-0ae0-45eb-9139-20574892fcc4/air-trainer-1-shoes-ZLtGj0.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9968d11-0ae0-45eb-9139-20574892fcc4/air-trainer-1-shoes-ZLtGj0.png"
+    },
+    "releaseDate": "2016-07-12",
+    "retailPrice": 145 ,
+    "name": "Nike Air Trainer 1",
+    "title": "Nike Air Trainer 1",
+    "styleId": "S12",
+    "shoe": "casual",
+    "year": 2016
+  },
+  {
+  "id": "13",
+  "brand": "Nike",
+  "colorway": "black",
+  "gender": "male",
+  "media": {
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png",
+    "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png"
+  },
+  "releaseDate": "2015-12-15",
+  "retailPrice": 100 ,
+  "name": "Nike Air Force 1 '07",
+  "title": "Nike Air Force 1 '07",
+  "styleId": "S01",
+  "shoe": "casual",
+  "year": 2015
+},
+  {
+    "id": "14",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/812a427a-3923-4a9e-96de-16c93d658542/full-force-low-shoes-w2MKmW.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/812a427a-3923-4a9e-96de-16c93d658542/full-force-low-shoes-w2MKmW.png"
+    },
+    "releaseDate": "2014-12-15",
+    "retailPrice": 120 ,
+    "name": "Nike Full Force Low",
+    "title": "Nike Full Force Low",
+    "styleId": "S02",
+    "shoe": "casual",
+    "year": 2014
+  },
+
+  {
+    "id": "15",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7112d5a-cfc0-4a53-8d9e-40ce8274324d/zoom-vomero-5-shoes-0MrckK.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7112d5a-cfc0-4a53-8d9e-40ce8274324d/zoom-vomero-5-shoes-0MrckK.png"
+    },
+    "releaseDate": "2017-12-25",
+    "retailPrice": 130 ,
+    "name": "Nike Zoom Vomero 5 Premium",
+    "title": "Nike Zoom Vomero 5 Premium",
+    "styleId": "S03",
+    "shoe": "casual",
+    "year": 2017
+  },
+  {
+    "id": "16",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cef814b-265a-4279-8e0a-959c0c736ee9/terminator-low-shoes-8sqr67.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cef814b-265a-4279-8e0a-959c0c736ee9/terminator-low-shoes-8sqr67.png"
+    },
+    "releaseDate": "2015-10-25",
+    "retailPrice": 150 ,
+    "name": "Nike Terminator Low Premium",
+    "title": "Nike Terminator Low Premium",
+    "styleId": "S04",
+    "shoe": "casual",
+    "year": 2015
+  },
+
+  {
+    "id": "17",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf6f9523-08b8-4f9a-9518-64640fb7ee91/air-huarache-runner-shoes-6gNJ0g.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf6f9523-08b8-4f9a-9518-64640fb7ee91/air-huarache-runner-shoes-6gNJ0g.png"
+    },
+    "releaseDate": "2020-2-15",
+    "retailPrice": 90 ,
+    "name": "Nike Air Huarache Runner",
+    "title": "Nike Air Huarache Runner",
+    "styleId": "S05",
+    "shoe": "casual",
+    "year": 2020
+  },
+  {
+    "id": "18",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d706b6dd-32a7-4ed9-81c9-c0808624807c/dunk-low-retro-shoes-bCzchX.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d706b6dd-32a7-4ed9-81c9-c0808624807c/dunk-low-retro-shoes-bCzchX.png"
+    },
+    "releaseDate": "2010-10-2",
+    "retailPrice": 290 ,
+    "name": "Nike Dunk Low Retro",
+    "title": "Nike Dunk Low Retro",
+    "styleId": "S06",
+    "shoe": "casual",
+    "year": 2010
+  },
+  {
+    "id": "19",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/xaj8jyvjkquxeefdbrkj/killshot-2-leather-shoe-DqWZ4j.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/xaj8jyvjkquxeefdbrkj/killshot-2-leather-shoe-DqWZ4j.png"
+    },
+    "releaseDate": "2019-10-5",
+    "retailPrice": 100 ,
+    "name": "Nike Killshot 2 Leather",
+    "title": "Nike Killshot 2 Leather",
+    "styleId": "S07",
+    "shoe": "casual",
+    "year": 2019
+  },
+  {
+    "id": "20",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1f53b04c-18dc-48b7-a4db-f402c0d84d3c/air-force-1-07-shoes-PhJwrD.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1f53b04c-18dc-48b7-a4db-f402c0d84d3c/air-force-1-07-shoes-PhJwrD.png"
+    },
+    "releaseDate": "2013-10-10",
+    "retailPrice": 145 ,
+    "name": "Nike Air Force 1 '07",
+    "title": "Nike Air Force 1 '07",
+    "styleId": "S08",
+    "shoe": "casual",
+    "year": 2013
+  },
+  {
+    "id": "21",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/da52b99a-87e6-4887-a080-fc53942b5c18/air-jordan-11-retro-low-ie-shoes-30kr7w.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/da52b99a-87e6-4887-a080-fc53942b5c18/air-jordan-11-retro-low-ie-shoes-30kr7w.png"
+    },
+    "releaseDate": "2012-9-1",
+    "retailPrice": 135 ,
+    "name": "Air Jordan 11 Retro Low IE",
+    "title": "Air Jordan 11 Retro Low IE",
+    "styleId": "S09",
+    "shoe": "casual",
+    "year": 2012
+  },
+  {
+    "id": "22",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8cd2fd7c-f969-44ff-bc75-3c32d865e614/air-humara-shoes-Hs4Qsh.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8cd2fd7c-f969-44ff-bc75-3c32d865e614/air-humara-shoes-Hs4Qsh.png"
+    },
+    "releaseDate": "2011-1-10",
+    "retailPrice": 180 ,
+    "name": "Nike Air Humara",
+    "title": "Nike Air Humara",
+    "styleId": "S10",
+    "shoe": "casual",
+    "year": 2011
+  },
+  {
+    "id": "23",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23fd664e-2962-4ea1-8389-cf98ac2dd2fc/air-max-90-shoes-hkwJRC.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23fd664e-2962-4ea1-8389-cf98ac2dd2fc/air-max-90-shoes-hkwJRC.png"
+    },
+    "releaseDate": "2015-09-1",
+    "retailPrice": 170 ,
+    "name": "Nike Air Max 90",
+    "title": "Nike Air Max 90",
+    "styleId": "S11",
+    "shoe": "casual",
+    "year": 2015
+  },
+  {
+    "id": "24",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9968d11-0ae0-45eb-9139-20574892fcc4/air-trainer-1-shoes-ZLtGj0.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9968d11-0ae0-45eb-9139-20574892fcc4/air-trainer-1-shoes-ZLtGj0.png"
+    },
+    "releaseDate": "2016-07-12",
+    "retailPrice": 145 ,
+    "name": "Nike Air Trainer 1",
+    "title": "Nike Air Trainer 1",
+    "styleId": "S12",
+    "shoe": "casual",
+    "year": 2016
+  },
+  {
+  "id": "25",
+  "brand": "Nike",
+  "colorway": "black",
+  "gender": "male",
+  "media": {
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png",
+    "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png"
+  },
+  "releaseDate": "2015-12-15",
+  "retailPrice": 100 ,
+  "name": "Nike Air Force 1 '07",
+  "title": "Nike Air Force 1 '07",
+  "styleId": "S01",
+  "shoe": "casual",
+  "year": 2015
+},
+  {
+    "id": "26",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/812a427a-3923-4a9e-96de-16c93d658542/full-force-low-shoes-w2MKmW.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/812a427a-3923-4a9e-96de-16c93d658542/full-force-low-shoes-w2MKmW.png"
+    },
+    "releaseDate": "2014-12-15",
+    "retailPrice": 120 ,
+    "name": "Nike Full Force Low",
+    "title": "Nike Full Force Low",
+    "styleId": "S02",
+    "shoe": "casual",
+    "year": 2014
+  },
+  {
+    "id": "27",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7112d5a-cfc0-4a53-8d9e-40ce8274324d/zoom-vomero-5-shoes-0MrckK.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7112d5a-cfc0-4a53-8d9e-40ce8274324d/zoom-vomero-5-shoes-0MrckK.png"
+    },
+    "releaseDate": "2017-12-25",
+    "retailPrice": 130 ,
+    "name": "Nike Zoom Vomero 5 Premium",
+    "title": "Nike Zoom Vomero 5 Premium",
+    "styleId": "S03",
+    "shoe": "casual",
+    "year": 2017
+  },
+  {
+    "id": "28",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cef814b-265a-4279-8e0a-959c0c736ee9/terminator-low-shoes-8sqr67.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cef814b-265a-4279-8e0a-959c0c736ee9/terminator-low-shoes-8sqr67.png"
+    },
+    "releaseDate": "2015-10-25",
+    "retailPrice": 150 ,
+    "name": "Nike Terminator Low Premium",
+    "title": "Nike Terminator Low Premium",
+    "styleId": "S04",
+    "shoe": "casual",
+    "year": 2015
+  },
+  {
+    "id": "29",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf6f9523-08b8-4f9a-9518-64640fb7ee91/air-huarache-runner-shoes-6gNJ0g.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf6f9523-08b8-4f9a-9518-64640fb7ee91/air-huarache-runner-shoes-6gNJ0g.png"
+    },
+    "releaseDate": "2020-2-15",
+    "retailPrice": 90 ,
+    "name": "Nike Air Huarache Runner",
+    "title": "Nike Air Huarache Runner",
+    "styleId": "S05",
+    "shoe": "casual",
+    "year": 2020
+  },
+  {
+    "id": "30",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d706b6dd-32a7-4ed9-81c9-c0808624807c/dunk-low-retro-shoes-bCzchX.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d706b6dd-32a7-4ed9-81c9-c0808624807c/dunk-low-retro-shoes-bCzchX.png"
+    },
+    "releaseDate": "2010-10-2",
+    "retailPrice": 290 ,
+    "name": "Nike Dunk Low Retro",
+    "title": "Nike Dunk Low Retro",
+    "styleId": "S06",
+    "shoe": "casual",
+    "year": 2010
+  },
+  {
+    "id": "31",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/xaj8jyvjkquxeefdbrkj/killshot-2-leather-shoe-DqWZ4j.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/xaj8jyvjkquxeefdbrkj/killshot-2-leather-shoe-DqWZ4j.png"
+    },
+    "releaseDate": "2019-10-5",
+    "retailPrice": 100 ,
+    "name": "Nike Killshot 2 Leather",
+    "title": "Nike Killshot 2 Leather",
+    "styleId": "S07",
+    "shoe": "casual",
+    "year": 2019
+  },
+  {
+    "id": "32",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1f53b04c-18dc-48b7-a4db-f402c0d84d3c/air-force-1-07-shoes-PhJwrD.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1f53b04c-18dc-48b7-a4db-f402c0d84d3c/air-force-1-07-shoes-PhJwrD.png"
+    },
+    "releaseDate": "2013-10-10",
+    "retailPrice": 145 ,
+    "name": "Nike Air Force 1 '07",
+    "title": "Nike Air Force 1 '07",
+    "styleId": "S08",
+    "shoe": "casual",
+    "year": 2013
+  },
+  {
+    "id": "33",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/da52b99a-87e6-4887-a080-fc53942b5c18/air-jordan-11-retro-low-ie-shoes-30kr7w.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/da52b99a-87e6-4887-a080-fc53942b5c18/air-jordan-11-retro-low-ie-shoes-30kr7w.png"
+    },
+    "releaseDate": "2012-9-1",
+    "retailPrice": 135 ,
+    "name": "Air Jordan 11 Retro Low IE",
+    "title": "Air Jordan 11 Retro Low IE",
+    "styleId": "S09",
+    "shoe": "casual",
+    "year": 2012
+  },
+  {
+    "id": "34",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8cd2fd7c-f969-44ff-bc75-3c32d865e614/air-humara-shoes-Hs4Qsh.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8cd2fd7c-f969-44ff-bc75-3c32d865e614/air-humara-shoes-Hs4Qsh.png"
+    },
+    "releaseDate": "2011-1-10",
+    "retailPrice": 180 ,
+    "name": "Nike Air Humara",
+    "title": "Nike Air Humara",
+    "styleId": "S10",
+    "shoe": "casual",
+    "year": 2011
+  },
+  {
+    "id": "35",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23fd664e-2962-4ea1-8389-cf98ac2dd2fc/air-max-90-shoes-hkwJRC.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23fd664e-2962-4ea1-8389-cf98ac2dd2fc/air-max-90-shoes-hkwJRC.png"
+    },
+    "releaseDate": "2015-09-1",
+    "retailPrice": 170 ,
+    "name": "Nike Air Max 90",
+    "title": "Nike Air Max 90",
+    "styleId": "S11",
+    "shoe": "casual",
+    "year": 2015
+  },
+  {
+    "id": "36",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9968d11-0ae0-45eb-9139-20574892fcc4/air-trainer-1-shoes-ZLtGj0.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9968d11-0ae0-45eb-9139-20574892fcc4/air-trainer-1-shoes-ZLtGj0.png"
+    },
+    "releaseDate": "2016-07-12",
+    "retailPrice": 145 ,
+    "name": "Nike Air Trainer 1",
+    "title": "Nike Air Trainer 1",
+    "styleId": "S12",
+    "shoe": "casual",
+    "year": 2016
+  },
+  {
+  "id": "37",
+  "brand": "Nike",
+  "colorway": "black",
+  "gender": "male",
+  "media": {
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png",
+    "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png"
+  },
+  "releaseDate": "2015-12-15",
+  "retailPrice": 100 ,
+  "name": "Nike Air Force 1 '07",
+  "title": "Nike Air Force 1 '07",
+  "styleId": "S01",
+  "shoe": "casual",
+  "year": 2015
+},
+  {
+    "id": "38",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/812a427a-3923-4a9e-96de-16c93d658542/full-force-low-shoes-w2MKmW.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/812a427a-3923-4a9e-96de-16c93d658542/full-force-low-shoes-w2MKmW.png"
+    },
+    "releaseDate": "2014-12-15",
+    "retailPrice": 120 ,
+    "name": "Nike Full Force Low",
+    "title": "Nike Full Force Low",
+    "styleId": "S02",
+    "shoe": "casual",
+    "year": 2014
+  },
+
+  {
+    "id": "39",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7112d5a-cfc0-4a53-8d9e-40ce8274324d/zoom-vomero-5-shoes-0MrckK.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7112d5a-cfc0-4a53-8d9e-40ce8274324d/zoom-vomero-5-shoes-0MrckK.png"
+    },
+    "releaseDate": "2017-12-25",
+    "retailPrice": 130 ,
+    "name": "Nike Zoom Vomero 5 Premium",
+    "title": "Nike Zoom Vomero 5 Premium",
+    "styleId": "S03",
+    "shoe": "casual",
+    "year": 2017
+  },
+
+
+  {
+    "id": "40",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cef814b-265a-4279-8e0a-959c0c736ee9/terminator-low-shoes-8sqr67.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cef814b-265a-4279-8e0a-959c0c736ee9/terminator-low-shoes-8sqr67.png"
+    },
+    "releaseDate": "2015-10-25",
+    "retailPrice": 150 ,
+    "name": "Nike Terminator Low Premium",
+    "title": "Nike Terminator Low Premium",
+    "styleId": "S04",
+    "shoe": "casual",
+    "year": 2015
+  },
+
+  {
+    "id": "41",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf6f9523-08b8-4f9a-9518-64640fb7ee91/air-huarache-runner-shoes-6gNJ0g.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf6f9523-08b8-4f9a-9518-64640fb7ee91/air-huarache-runner-shoes-6gNJ0g.png"
+    },
+    "releaseDate": "2020-2-15",
+    "retailPrice": 90 ,
+    "name": "Nike Air Huarache Runner",
+    "title": "Nike Air Huarache Runner",
+    "styleId": "S05",
+    "shoe": "casual",
+    "year": 2020
+  },
+
+  {
+    "id": "42",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d706b6dd-32a7-4ed9-81c9-c0808624807c/dunk-low-retro-shoes-bCzchX.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d706b6dd-32a7-4ed9-81c9-c0808624807c/dunk-low-retro-shoes-bCzchX.png"
+    },
+    "releaseDate": "2010-10-2",
+    "retailPrice": 290 ,
+    "name": "Nike Dunk Low Retro",
+    "title": "Nike Dunk Low Retro",
+    "styleId": "S06",
+    "shoe": "casual",
+    "year": 2010
+  },
+
+  {
+    "id": "43",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/xaj8jyvjkquxeefdbrkj/killshot-2-leather-shoe-DqWZ4j.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/xaj8jyvjkquxeefdbrkj/killshot-2-leather-shoe-DqWZ4j.png"
+    },
+    "releaseDate": "2019-10-5",
+    "retailPrice": 100 ,
+    "name": "Nike Killshot 2 Leather",
+    "title": "Nike Killshot 2 Leather",
+    "styleId": "S07",
+    "shoe": "casual",
+    "year": 2019
+  },
+
+  {
+    "id": "44",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1f53b04c-18dc-48b7-a4db-f402c0d84d3c/air-force-1-07-shoes-PhJwrD.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1f53b04c-18dc-48b7-a4db-f402c0d84d3c/air-force-1-07-shoes-PhJwrD.png"
+    },
+    "releaseDate": "2013-10-10",
+    "retailPrice": 145 ,
+    "name": "Nike Air Force 1 '07",
+    "title": "Nike Air Force 1 '07",
+    "styleId": "S08",
+    "shoe": "casual",
+    "year": 2013
+  },
+
+  {
+    "id": "45",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/da52b99a-87e6-4887-a080-fc53942b5c18/air-jordan-11-retro-low-ie-shoes-30kr7w.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/da52b99a-87e6-4887-a080-fc53942b5c18/air-jordan-11-retro-low-ie-shoes-30kr7w.png"
+    },
+    "releaseDate": "2012-9-1",
+    "retailPrice": 135 ,
+    "name": "Air Jordan 11 Retro Low IE",
+    "title": "Air Jordan 11 Retro Low IE",
+    "styleId": "S09",
+    "shoe": "casual",
+    "year": 2012
+  },
+
+  {
+    "id": "46",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8cd2fd7c-f969-44ff-bc75-3c32d865e614/air-humara-shoes-Hs4Qsh.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8cd2fd7c-f969-44ff-bc75-3c32d865e614/air-humara-shoes-Hs4Qsh.png"
+    },
+    "releaseDate": "2011-1-10",
+    "retailPrice": 180 ,
+    "name": "Nike Air Humara",
+    "title": "Nike Air Humara",
+    "styleId": "S10",
+    "shoe": "casual",
+    "year": 2011
+  },
+
+  {
+    "id": "47",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23fd664e-2962-4ea1-8389-cf98ac2dd2fc/air-max-90-shoes-hkwJRC.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23fd664e-2962-4ea1-8389-cf98ac2dd2fc/air-max-90-shoes-hkwJRC.png"
+    },
+    "releaseDate": "2015-09-1",
+    "retailPrice": 170 ,
+    "name": "Nike Air Max 90",
+    "title": "Nike Air Max 90",
+    "styleId": "S11",
+    "shoe": "casual",
+    "year": 2015
+  },
+
+  {
+    "id": "48",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9968d11-0ae0-45eb-9139-20574892fcc4/air-trainer-1-shoes-ZLtGj0.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9968d11-0ae0-45eb-9139-20574892fcc4/air-trainer-1-shoes-ZLtGj0.png"
+    },
+    "releaseDate": "2016-07-12",
+    "retailPrice": 145 ,
+    "name": "Nike Air Trainer 1",
+    "title": "Nike Air Trainer 1",
+    "styleId": "S12",
+    "shoe": "casual",
+    "year": 2016
+  },
+  {
+  "id": "49",
+  "brand": "Nike",
+  "colorway": "black",
+  "gender": "male",
+  "media": {
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png",
+    "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png"
+  },
+  "releaseDate": "2015-12-15",
+  "retailPrice": 100 ,
+  "name": "Nike Air Force 1 '07",
+  "title": "Nike Air Force 1 '07",
+  "styleId": "S01",
+  "shoe": "casual",
+  "year": 2015
+},
+  {
+    "id": "50",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/812a427a-3923-4a9e-96de-16c93d658542/full-force-low-shoes-w2MKmW.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/812a427a-3923-4a9e-96de-16c93d658542/full-force-low-shoes-w2MKmW.png"
+    },
+    "releaseDate": "2014-12-15",
+    "retailPrice": 120 ,
+    "name": "Nike Full Force Low",
+    "title": "Nike Full Force Low",
+    "styleId": "S02",
+    "shoe": "casual",
+    "year": 2014
+  },
+
+  {
+    "id": "51",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7112d5a-cfc0-4a53-8d9e-40ce8274324d/zoom-vomero-5-shoes-0MrckK.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7112d5a-cfc0-4a53-8d9e-40ce8274324d/zoom-vomero-5-shoes-0MrckK.png"
+    },
+    "releaseDate": "2017-12-25",
+    "retailPrice": 130 ,
+    "name": "Nike Zoom Vomero 5 Premium",
+    "title": "Nike Zoom Vomero 5 Premium",
+    "styleId": "S03",
+    "shoe": "casual",
+    "year": 2017
+  },
+
+
+  {
+    "id": "52",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cef814b-265a-4279-8e0a-959c0c736ee9/terminator-low-shoes-8sqr67.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cef814b-265a-4279-8e0a-959c0c736ee9/terminator-low-shoes-8sqr67.png"
+    },
+    "releaseDate": "2015-10-25",
+    "retailPrice": 150 ,
+    "name": "Nike Terminator Low Premium",
+    "title": "Nike Terminator Low Premium",
+    "styleId": "S04",
+    "shoe": "casual",
+    "year": 2015
+  },
+
+  {
+    "id": "53",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf6f9523-08b8-4f9a-9518-64640fb7ee91/air-huarache-runner-shoes-6gNJ0g.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf6f9523-08b8-4f9a-9518-64640fb7ee91/air-huarache-runner-shoes-6gNJ0g.png"
+    },
+    "releaseDate": "2020-2-15",
+    "retailPrice": 90 ,
+    "name": "Nike Air Huarache Runner",
+    "title": "Nike Air Huarache Runner",
+    "styleId": "S05",
+    "shoe": "casual",
+    "year": 2020
+  },
+
+  {
+    "id": "54",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d706b6dd-32a7-4ed9-81c9-c0808624807c/dunk-low-retro-shoes-bCzchX.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d706b6dd-32a7-4ed9-81c9-c0808624807c/dunk-low-retro-shoes-bCzchX.png"
+    },
+    "releaseDate": "2010-10-2",
+    "retailPrice": 290 ,
+    "name": "Nike Dunk Low Retro",
+    "title": "Nike Dunk Low Retro",
+    "styleId": "S06",
+    "shoe": "casual",
+    "year": 2010
+  },
+
+  {
+    "id": "55",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/xaj8jyvjkquxeefdbrkj/killshot-2-leather-shoe-DqWZ4j.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/xaj8jyvjkquxeefdbrkj/killshot-2-leather-shoe-DqWZ4j.png"
+    },
+    "releaseDate": "2019-10-5",
+    "retailPrice": 100 ,
+    "name": "Nike Killshot 2 Leather",
+    "title": "Nike Killshot 2 Leather",
+    "styleId": "S07",
+    "shoe": "casual",
+    "year": 2019
+  },
+
+  {
+    "id": "56",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1f53b04c-18dc-48b7-a4db-f402c0d84d3c/air-force-1-07-shoes-PhJwrD.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1f53b04c-18dc-48b7-a4db-f402c0d84d3c/air-force-1-07-shoes-PhJwrD.png"
+    },
+    "releaseDate": "2013-10-10",
+    "retailPrice": 145 ,
+    "name": "Nike Air Force 1 '07",
+    "title": "Nike Air Force 1 '07",
+    "styleId": "S08",
+    "shoe": "casual",
+    "year": 2013
+  },
+
+  {
+    "id": "57",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/da52b99a-87e6-4887-a080-fc53942b5c18/air-jordan-11-retro-low-ie-shoes-30kr7w.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/da52b99a-87e6-4887-a080-fc53942b5c18/air-jordan-11-retro-low-ie-shoes-30kr7w.png"
+    },
+    "releaseDate": "2012-9-1",
+    "retailPrice": 135 ,
+    "name": "Air Jordan 11 Retro Low IE",
+    "title": "Air Jordan 11 Retro Low IE",
+    "styleId": "S09",
+    "shoe": "casual",
+    "year": 2012
+  },
+
+  {
+    "id": "58",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8cd2fd7c-f969-44ff-bc75-3c32d865e614/air-humara-shoes-Hs4Qsh.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8cd2fd7c-f969-44ff-bc75-3c32d865e614/air-humara-shoes-Hs4Qsh.png"
+    },
+    "releaseDate": "2011-1-10",
+    "retailPrice": 180 ,
+    "name": "Nike Air Humara",
+    "title": "Nike Air Humara",
+    "styleId": "S10",
+    "shoe": "casual",
+    "year": 2011
+  },
+
+  {
+    "id": "59",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23fd664e-2962-4ea1-8389-cf98ac2dd2fc/air-max-90-shoes-hkwJRC.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23fd664e-2962-4ea1-8389-cf98ac2dd2fc/air-max-90-shoes-hkwJRC.png"
+    },
+    "releaseDate": "2015-09-1",
+    "retailPrice": 170 ,
+    "name": "Nike Air Max 90",
+    "title": "Nike Air Max 90",
+    "styleId": "S11",
+    "shoe": "casual",
+    "year": 2015
+  },
+
+  {
+    "id": "60",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9968d11-0ae0-45eb-9139-20574892fcc4/air-trainer-1-shoes-ZLtGj0.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9968d11-0ae0-45eb-9139-20574892fcc4/air-trainer-1-shoes-ZLtGj0.png"
+    },
+    "releaseDate": "2016-07-12",
+    "retailPrice": 145 ,
+    "name": "Nike Air Trainer 1",
+    "title": "Nike Air Trainer 1",
+    "styleId": "S12",
+    "shoe": "casual",
+    "year": 2016
+  },
+  {
+  "id": "61",
+  "brand": "Nike",
+  "colorway": "black",
+  "gender": "male",
+  "media": {
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png",
+    "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png"
+  },
+  "releaseDate": "2015-12-15",
+  "retailPrice": 100 ,
+  "name": "Nike Air Force 1 '07",
+  "title": "Nike Air Force 1 '07",
+  "styleId": "S01",
+  "shoe": "casual",
+  "year": 2015
+},
+  {
+    "id": "62",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/812a427a-3923-4a9e-96de-16c93d658542/full-force-low-shoes-w2MKmW.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/812a427a-3923-4a9e-96de-16c93d658542/full-force-low-shoes-w2MKmW.png"
+    },
+    "releaseDate": "2014-12-15",
+    "retailPrice": 120 ,
+    "name": "Nike Full Force Low",
+    "title": "Nike Full Force Low",
+    "styleId": "S02",
+    "shoe": "casual",
+    "year": 2014
+  },
+
+  {
+    "id": "63",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7112d5a-cfc0-4a53-8d9e-40ce8274324d/zoom-vomero-5-shoes-0MrckK.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7112d5a-cfc0-4a53-8d9e-40ce8274324d/zoom-vomero-5-shoes-0MrckK.png"
+    },
+    "releaseDate": "2017-12-25",
+    "retailPrice": 130 ,
+    "name": "Nike Zoom Vomero 5 Premium",
+    "title": "Nike Zoom Vomero 5 Premium",
+    "styleId": "S03",
+    "shoe": "casual",
+    "year": 2017
+  },
+
+
+  {
+    "id": "64",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cef814b-265a-4279-8e0a-959c0c736ee9/terminator-low-shoes-8sqr67.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cef814b-265a-4279-8e0a-959c0c736ee9/terminator-low-shoes-8sqr67.png"
+    },
+    "releaseDate": "2015-10-25",
+    "retailPrice": 150 ,
+    "name": "Nike Terminator Low Premium",
+    "title": "Nike Terminator Low Premium",
+    "styleId": "S04",
+    "shoe": "casual",
+    "year": 2015
+  },
+
+  {
+    "id": "65",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf6f9523-08b8-4f9a-9518-64640fb7ee91/air-huarache-runner-shoes-6gNJ0g.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf6f9523-08b8-4f9a-9518-64640fb7ee91/air-huarache-runner-shoes-6gNJ0g.png"
+    },
+    "releaseDate": "2020-2-15",
+    "retailPrice": 90 ,
+    "name": "Nike Air Huarache Runner",
+    "title": "Nike Air Huarache Runner",
+    "styleId": "S05",
+    "shoe": "casual",
+    "year": 2020
+  },
+
+  {
+    "id": "66",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d706b6dd-32a7-4ed9-81c9-c0808624807c/dunk-low-retro-shoes-bCzchX.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d706b6dd-32a7-4ed9-81c9-c0808624807c/dunk-low-retro-shoes-bCzchX.png"
+    },
+    "releaseDate": "2010-10-2",
+    "retailPrice": 290 ,
+    "name": "Nike Dunk Low Retro",
+    "title": "Nike Dunk Low Retro",
+    "styleId": "S06",
+    "shoe": "casual",
+    "year": 2010
+  },
+
+  {
+    "id": "67",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/xaj8jyvjkquxeefdbrkj/killshot-2-leather-shoe-DqWZ4j.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/xaj8jyvjkquxeefdbrkj/killshot-2-leather-shoe-DqWZ4j.png"
+    },
+    "releaseDate": "2019-10-5",
+    "retailPrice": 100 ,
+    "name": "Nike Killshot 2 Leather",
+    "title": "Nike Killshot 2 Leather",
+    "styleId": "S07",
+    "shoe": "casual",
+    "year": 2019
+  },
+
+  {
+    "id": "68",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1f53b04c-18dc-48b7-a4db-f402c0d84d3c/air-force-1-07-shoes-PhJwrD.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1f53b04c-18dc-48b7-a4db-f402c0d84d3c/air-force-1-07-shoes-PhJwrD.png"
+    },
+    "releaseDate": "2013-10-10",
+    "retailPrice": 145 ,
+    "name": "Nike Air Force 1 '07",
+    "title": "Nike Air Force 1 '07",
+    "styleId": "S08",
+    "shoe": "casual",
+    "year": 2013
+  },
+
+  {
+    "id": "69",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/da52b99a-87e6-4887-a080-fc53942b5c18/air-jordan-11-retro-low-ie-shoes-30kr7w.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/da52b99a-87e6-4887-a080-fc53942b5c18/air-jordan-11-retro-low-ie-shoes-30kr7w.png"
+    },
+    "releaseDate": "2012-9-1",
+    "retailPrice": 135 ,
+    "name": "Air Jordan 11 Retro Low IE",
+    "title": "Air Jordan 11 Retro Low IE",
+    "styleId": "S09",
+    "shoe": "casual",
+    "year": 2012
+  },
+
+  {
+    "id": "70",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8cd2fd7c-f969-44ff-bc75-3c32d865e614/air-humara-shoes-Hs4Qsh.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8cd2fd7c-f969-44ff-bc75-3c32d865e614/air-humara-shoes-Hs4Qsh.png"
+    },
+    "releaseDate": "2011-1-10",
+    "retailPrice": 180 ,
+    "name": "Nike Air Humara",
+    "title": "Nike Air Humara",
+    "styleId": "S10",
+    "shoe": "casual",
+    "year": 2011
+  },
+
+  {
+    "id": "71",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23fd664e-2962-4ea1-8389-cf98ac2dd2fc/air-max-90-shoes-hkwJRC.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23fd664e-2962-4ea1-8389-cf98ac2dd2fc/air-max-90-shoes-hkwJRC.png"
+    },
+    "releaseDate": "2015-09-1",
+    "retailPrice": 170 ,
+    "name": "Nike Air Max 90",
+    "title": "Nike Air Max 90",
+    "styleId": "S11",
+    "shoe": "casual",
+    "year": 2015
+  },
+
+  {
+    "id": "72",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9968d11-0ae0-45eb-9139-20574892fcc4/air-trainer-1-shoes-ZLtGj0.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9968d11-0ae0-45eb-9139-20574892fcc4/air-trainer-1-shoes-ZLtGj0.png"
+    },
+    "releaseDate": "2016-07-12",
+    "retailPrice": 145 ,
+    "name": "Nike Air Trainer 1",
+    "title": "Nike Air Trainer 1",
+    "styleId": "S12",
+    "shoe": "casual",
+    "year": 2016
+  },
+  {
+  "id": "73",
+  "brand": "Nike",
+  "colorway": "black",
+  "gender": "male",
+  "media": {
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png",
+    "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png"
+  },
+  "releaseDate": "2015-12-15",
+  "retailPrice": 100 ,
+  "name": "Nike Air Force 1 '07",
+  "title": "Nike Air Force 1 '07",
+  "styleId": "S01",
+  "shoe": "casual",
+  "year": 2015
+},
+  {
+    "id": "74",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/812a427a-3923-4a9e-96de-16c93d658542/full-force-low-shoes-w2MKmW.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/812a427a-3923-4a9e-96de-16c93d658542/full-force-low-shoes-w2MKmW.png"
+    },
+    "releaseDate": "2014-12-15",
+    "retailPrice": 120 ,
+    "name": "Nike Full Force Low",
+    "title": "Nike Full Force Low",
+    "styleId": "S02",
+    "shoe": "casual",
+    "year": 2014
+  },
+  {
+    "id": "75",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7112d5a-cfc0-4a53-8d9e-40ce8274324d/zoom-vomero-5-shoes-0MrckK.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7112d5a-cfc0-4a53-8d9e-40ce8274324d/zoom-vomero-5-shoes-0MrckK.png"
+    },
+    "releaseDate": "2017-12-25",
+    "retailPrice": 130 ,
+    "name": "Nike Zoom Vomero 5 Premium",
+    "title": "Nike Zoom Vomero 5 Premium",
+    "styleId": "S03",
+    "shoe": "casual",
+    "year": 2017
+  },
+
+
+  {
+    "id": "76",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cef814b-265a-4279-8e0a-959c0c736ee9/terminator-low-shoes-8sqr67.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cef814b-265a-4279-8e0a-959c0c736ee9/terminator-low-shoes-8sqr67.png"
+    },
+    "releaseDate": "2015-10-25",
+    "retailPrice": 150 ,
+    "name": "Nike Terminator Low Premium",
+    "title": "Nike Terminator Low Premium",
+    "styleId": "S04",
+    "shoe": "casual",
+    "year": 2015
+  },
+
+  {
+    "id": "77",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf6f9523-08b8-4f9a-9518-64640fb7ee91/air-huarache-runner-shoes-6gNJ0g.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf6f9523-08b8-4f9a-9518-64640fb7ee91/air-huarache-runner-shoes-6gNJ0g.png"
+    },
+    "releaseDate": "2020-2-15",
+    "retailPrice": 90 ,
+    "name": "Nike Air Huarache Runner",
+    "title": "Nike Air Huarache Runner",
+    "styleId": "S05",
+    "shoe": "casual",
+    "year": 2020
+  },
+
+  {
+    "id": "78",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d706b6dd-32a7-4ed9-81c9-c0808624807c/dunk-low-retro-shoes-bCzchX.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d706b6dd-32a7-4ed9-81c9-c0808624807c/dunk-low-retro-shoes-bCzchX.png"
+    },
+    "releaseDate": "2010-10-2",
+    "retailPrice": 290 ,
+    "name": "Nike Dunk Low Retro",
+    "title": "Nike Dunk Low Retro",
+    "styleId": "S06",
+    "shoe": "casual",
+    "year": 2010
+  },
+
+  {
+    "id": "79",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/xaj8jyvjkquxeefdbrkj/killshot-2-leather-shoe-DqWZ4j.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/xaj8jyvjkquxeefdbrkj/killshot-2-leather-shoe-DqWZ4j.png"
+    },
+    "releaseDate": "2019-10-5",
+    "retailPrice": 100 ,
+    "name": "Nike Killshot 2 Leather",
+    "title": "Nike Killshot 2 Leather",
+    "styleId": "S07",
+    "shoe": "casual",
+    "year": 2019
+  },
+
+  {
+    "id": "80",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1f53b04c-18dc-48b7-a4db-f402c0d84d3c/air-force-1-07-shoes-PhJwrD.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1f53b04c-18dc-48b7-a4db-f402c0d84d3c/air-force-1-07-shoes-PhJwrD.png"
+    },
+    "releaseDate": "2013-10-10",
+    "retailPrice": 145 ,
+    "name": "Nike Air Force 1 '07",
+    "title": "Nike Air Force 1 '07",
+    "styleId": "S08",
+    "shoe": "casual",
+    "year": 2013
+  },
+
+  {
+    "id": "81",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/da52b99a-87e6-4887-a080-fc53942b5c18/air-jordan-11-retro-low-ie-shoes-30kr7w.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/da52b99a-87e6-4887-a080-fc53942b5c18/air-jordan-11-retro-low-ie-shoes-30kr7w.png"
+    },
+    "releaseDate": "2012-9-1",
+    "retailPrice": 135 ,
+    "name": "Air Jordan 11 Retro Low IE",
+    "title": "Air Jordan 11 Retro Low IE",
+    "styleId": "S09",
+    "shoe": "casual",
+    "year": 2012
+  },
+
+  {
+    "id": "82",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8cd2fd7c-f969-44ff-bc75-3c32d865e614/air-humara-shoes-Hs4Qsh.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8cd2fd7c-f969-44ff-bc75-3c32d865e614/air-humara-shoes-Hs4Qsh.png"
+    },
+    "releaseDate": "2011-1-10",
+    "retailPrice": 180 ,
+    "name": "Nike Air Humara",
+    "title": "Nike Air Humara",
+    "styleId": "S10",
+    "shoe": "casual",
+    "year": 2011
+  },
+
+  {
+    "id": "83",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23fd664e-2962-4ea1-8389-cf98ac2dd2fc/air-max-90-shoes-hkwJRC.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23fd664e-2962-4ea1-8389-cf98ac2dd2fc/air-max-90-shoes-hkwJRC.png"
+    },
+    "releaseDate": "2015-09-1",
+    "retailPrice": 170 ,
+    "name": "Nike Air Max 90",
+    "title": "Nike Air Max 90",
+    "styleId": "S11",
+    "shoe": "casual",
+    "year": 2015
+  },
+
+  {
+    "id": "84",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9968d11-0ae0-45eb-9139-20574892fcc4/air-trainer-1-shoes-ZLtGj0.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9968d11-0ae0-45eb-9139-20574892fcc4/air-trainer-1-shoes-ZLtGj0.png"
+    },
+    "releaseDate": "2016-07-12",
+    "retailPrice": 145 ,
+    "name": "Nike Air Trainer 1",
+    "title": "Nike Air Trainer 1",
+    "styleId": "S12",
+    "shoe": "casual",
+    "year": 2016
+  },
+  {
+  "id": "85",
+  "brand": "Nike",
+  "colorway": "black",
+  "gender": "male",
+  "media": {
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png",
+    "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png"
+  },
+  "releaseDate": "2015-12-15",
+  "retailPrice": 100 ,
+  "name": "Nike Air Force 1 '07",
+  "title": "Nike Air Force 1 '07",
+  "styleId": "S01",
+  "shoe": "casual",
+  "year": 2015
+},
+  {
+    "id": "86",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/812a427a-3923-4a9e-96de-16c93d658542/full-force-low-shoes-w2MKmW.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/812a427a-3923-4a9e-96de-16c93d658542/full-force-low-shoes-w2MKmW.png"
+    },
+    "releaseDate": "2014-12-15",
+    "retailPrice": 120 ,
+    "name": "Nike Full Force Low",
+    "title": "Nike Full Force Low",
+    "styleId": "S02",
+    "shoe": "casual",
+    "year": 2014
+  },
+
+  {
+    "id": "87",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7112d5a-cfc0-4a53-8d9e-40ce8274324d/zoom-vomero-5-shoes-0MrckK.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7112d5a-cfc0-4a53-8d9e-40ce8274324d/zoom-vomero-5-shoes-0MrckK.png"
+    },
+    "releaseDate": "2017-12-25",
+    "retailPrice": 130 ,
+    "name": "Nike Zoom Vomero 5 Premium",
+    "title": "Nike Zoom Vomero 5 Premium",
+    "styleId": "S03",
+    "shoe": "casual",
+    "year": 2017
+  },
+
+
+  {
+    "id": "88",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cef814b-265a-4279-8e0a-959c0c736ee9/terminator-low-shoes-8sqr67.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cef814b-265a-4279-8e0a-959c0c736ee9/terminator-low-shoes-8sqr67.png"
+    },
+    "releaseDate": "2015-10-25",
+    "retailPrice": 150 ,
+    "name": "Nike Terminator Low Premium",
+    "title": "Nike Terminator Low Premium",
+    "styleId": "S04",
+    "shoe": "casual",
+    "year": 2015
+  },
+
+  {
+    "id": "89",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf6f9523-08b8-4f9a-9518-64640fb7ee91/air-huarache-runner-shoes-6gNJ0g.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf6f9523-08b8-4f9a-9518-64640fb7ee91/air-huarache-runner-shoes-6gNJ0g.png"
+    },
+    "releaseDate": "2020-2-15",
+    "retailPrice": 90 ,
+    "name": "Nike Air Huarache Runner",
+    "title": "Nike Air Huarache Runner",
+    "styleId": "S05",
+    "shoe": "casual",
+    "year": 2020
+  },
+
+  {
+    "id": "90",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d706b6dd-32a7-4ed9-81c9-c0808624807c/dunk-low-retro-shoes-bCzchX.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d706b6dd-32a7-4ed9-81c9-c0808624807c/dunk-low-retro-shoes-bCzchX.png"
+    },
+    "releaseDate": "2010-10-2",
+    "retailPrice": 290 ,
+    "name": "Nike Dunk Low Retro",
+    "title": "Nike Dunk Low Retro",
+    "styleId": "S06",
+    "shoe": "casual",
+    "year": 2010
+  },
+
+  {
+    "id": "91",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/xaj8jyvjkquxeefdbrkj/killshot-2-leather-shoe-DqWZ4j.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/xaj8jyvjkquxeefdbrkj/killshot-2-leather-shoe-DqWZ4j.png"
+    },
+    "releaseDate": "2019-10-5",
+    "retailPrice": 100 ,
+    "name": "Nike Killshot 2 Leather",
+    "title": "Nike Killshot 2 Leather",
+    "styleId": "S07",
+    "shoe": "casual",
+    "year": 2019
+  },
+
+  {
+    "id": "92",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1f53b04c-18dc-48b7-a4db-f402c0d84d3c/air-force-1-07-shoes-PhJwrD.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1f53b04c-18dc-48b7-a4db-f402c0d84d3c/air-force-1-07-shoes-PhJwrD.png"
+    },
+    "releaseDate": "2013-10-10",
+    "retailPrice": 145 ,
+    "name": "Nike Air Force 1 '07",
+    "title": "Nike Air Force 1 '07",
+    "styleId": "S08",
+    "shoe": "casual",
+    "year": 2013
+  },
+
+  {
+    "id": "93",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/da52b99a-87e6-4887-a080-fc53942b5c18/air-jordan-11-retro-low-ie-shoes-30kr7w.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/da52b99a-87e6-4887-a080-fc53942b5c18/air-jordan-11-retro-low-ie-shoes-30kr7w.png"
+    },
+    "releaseDate": "2012-9-1",
+    "retailPrice": 135 ,
+    "name": "Air Jordan 11 Retro Low IE",
+    "title": "Air Jordan 11 Retro Low IE",
+    "styleId": "S09",
+    "shoe": "casual",
+    "year": 2012
+  },
+
+  {
+    "id": "94",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8cd2fd7c-f969-44ff-bc75-3c32d865e614/air-humara-shoes-Hs4Qsh.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8cd2fd7c-f969-44ff-bc75-3c32d865e614/air-humara-shoes-Hs4Qsh.png"
+    },
+    "releaseDate": "2011-1-10",
+    "retailPrice": 180 ,
+    "name": "Nike Air Humara",
+    "title": "Nike Air Humara",
+    "styleId": "S10",
+    "shoe": "casual",
+    "year": 2011
+  },
+
+  {
+    "id": "95",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23fd664e-2962-4ea1-8389-cf98ac2dd2fc/air-max-90-shoes-hkwJRC.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23fd664e-2962-4ea1-8389-cf98ac2dd2fc/air-max-90-shoes-hkwJRC.png"
+    },
+    "releaseDate": "2015-09-1",
+    "retailPrice": 170 ,
+    "name": "Nike Air Max 90",
+    "title": "Nike Air Max 90",
+    "styleId": "S11",
+    "shoe": "casual",
+    "year": 2015
+  },
+
+  {
+    "id": "96",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "female",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9968d11-0ae0-45eb-9139-20574892fcc4/air-trainer-1-shoes-ZLtGj0.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9968d11-0ae0-45eb-9139-20574892fcc4/air-trainer-1-shoes-ZLtGj0.png"
+    },
+    "releaseDate": "2016-07-12",
+    "retailPrice": 145 ,
+    "name": "Nike Air Trainer 1",
+    "title": "Nike Air Trainer 1",
+    "styleId": "S12",
+    "shoe": "casual",
+    "year": 2016
+  },
+  {
+  "id": "97",
+  "brand": "Nike",
+  "colorway": "black",
+  "gender": "male",
+  "media": {
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png",
+    "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png"
+  },
+  "releaseDate": "2015-12-15",
+  "retailPrice": 100 ,
+  "name": "Nike Air Force 1 '07",
+  "title": "Nike Air Force 1 '07",
+  "styleId": "S01",
+  "shoe": "casual",
+  "year": 2015
+},
+  {
+    "id": "98",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/812a427a-3923-4a9e-96de-16c93d658542/full-force-low-shoes-w2MKmW.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/812a427a-3923-4a9e-96de-16c93d658542/full-force-low-shoes-w2MKmW.png"
+    },
+    "releaseDate": "2014-12-15",
+    "retailPrice": 120 ,
+    "name": "Nike Full Force Low",
+    "title": "Nike Full Force Low",
+    "styleId": "S02",
+    "shoe": "casual",
+    "year": 2014
+  },
+  {
+    "id": "99",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7112d5a-cfc0-4a53-8d9e-40ce8274324d/zoom-vomero-5-shoes-0MrckK.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7112d5a-cfc0-4a53-8d9e-40ce8274324d/zoom-vomero-5-shoes-0MrckK.png"
+    },
+    "releaseDate": "2017-12-25",
+    "retailPrice": 130 ,
+    "name": "Nike Zoom Vomero 5 Premium",
+    "title": "Nike Zoom Vomero 5 Premium",
+    "styleId": "S03",
+    "shoe": "casual",
+    "year": 2017
+  },
+  {
+    "id": "100",
+    "brand": "Nike",
+    "colorway": "black",
+    "gender": "male",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cef814b-265a-4279-8e0a-959c0c736ee9/terminator-low-shoes-8sqr67.png",
+      "thumbUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cef814b-265a-4279-8e0a-959c0c736ee9/terminator-low-shoes-8sqr67.png"
+    },
+    "releaseDate": "2015-10-25",
+    "retailPrice": 150 ,
+    "name": "Nike Terminator Low Premium",
+    "title": "Nike Terminator Low Premium",
+    "styleId": "S04",
+    "shoe": "casual",
+    "year": 2015
+  }
+]

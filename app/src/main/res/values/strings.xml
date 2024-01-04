@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SneakerShip</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="img_back">imgBack</string>
+    <string name="loreum_ipsum_txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="size_uk">Size (uk):</string>
+    <string name="size_8">8</string>
+    <string name="size_7">7</string>
+    <string name="size_9">9</string>
+    <string name="colour">Colour :</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="price">Price :</string>
+    <string name="home_icon">Home Icon</string>
+    <string name="cart_icon">cart icon</string>
+    <string name="home_icon_2">home icon 2</string>
+    <string name="order_details">Order Details</string>
+    <string name="subtotal">Subtotal :</string>
+    <string name="_40">$ 40</string>
+    <string name="total">Total :</string>
+    <string name="no_sneakers_in_cart">No Sneakers In Cart.</string>
+    <string name="remove_from_cart">Remove From Cart</string>
+</resources>
